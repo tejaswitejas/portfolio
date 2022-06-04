@@ -1,0 +1,175 @@
+body[data-theme="dark"] {  
+
+@import '../dark-slider.scss';
+
+   .slider-tab {
+      background-color: #919191;
+   }
+
+   .title-styles {
+      color: #919191;
+   }
+
+   .header-icon {
+      color: #3C342C;
+      opacity: 0.8;
+   }
+
+   .slider-image {
+      border: 5px solid #8C8C8C;
+   }
+
+   .language {
+      background-color: #494949;
+   }
+
+   .link-href {
+      color: white;
+   }
+
+   .project-date {
+      background-color: #918e97;
+      color: #5b5b5b;
+   }
+
+   header {
+      background-color: #494949;
+      h1 {
+         color: #919191;
+      }
+   }
+   #div::before {
+      content: "";
+      position: absolute;
+      inset: -15px;
+      border: 6px solid #fff;
+      border-top-color: #919191;
+      border-bottom-color: #919191;
+      border-radius: 50%;
+      z-index: 0;
+  }
+  #div-about::before {
+   content: "";
+   position: absolute;
+   inset: -15px;
+   border: 6px solid #324a48;
+   border-top-color: #919191;
+   border-bottom-color: #919191;
+   border-radius: 50%;
+   z-index: 0;
+   animation: spin 3s linear infinite;
+}
+   #about {
+      background-color: #324a48;
+      h1 span {
+         color: #919191;
+      }
+      .polaroid span {
+         background:  #546967;
+      }
+      .card {
+         background: #546967;
+         color: #919191;
+      }
+   }
+
+   #portfolio {
+      background: #133330;
+      .section-title {
+         color: #919191 !important;
+      }
+      .foto div {
+         background: #6d6d6d;
+      }
+      .project-title-settings {
+         color: #919191;
+      }
+   }
+#skills{
+   background: #133330;
+   h1 {
+      color : #919191;
+   }
+   .skills-tile {
+      border: 2px solid #919191
+   }
+   .progress-done {
+      background-color: #919191;
+      color: #fff;
+      border-radius: 5px;
+   }
+   .progress {
+      border-radius: 5px;
+      background-color: #5b5b5b;
+   }
+}
+#freeLance{
+   background: #324a48;
+   .freelance-img div{
+      background: #6d6d6d;
+   }
+   .section-title {
+		color: #919191;
+	}
+}
+   #resume {
+      background: #324a48;
+      .section-title {
+         color: #919191 !important;
+      }
+
+      .experience-badge {
+         background: #919191 !important;
+         color: white;
+      }
+
+      .main-badge {
+         background: #919191 !important;
+      }
+
+      .vertical-timeline-element-date {
+         color: white;
+      }
+
+      .vertical-timeline-element-icon {
+         background: #919191 !important;
+      }
+      @media only screen and (max-width: 1169px) { 
+         .vertical-timeline-element-date {
+            color: black;
+         }
+      }
+   }
+
+   .modal-inside .modal-content {
+      background: #5b5b5b;
+      color: white;
+   }
+
+   .close-icon {
+      color: white;
+   }
+   footer {
+      background: #133330
+   }
+   #footer-container {
+      .contact-logos{
+         background: #133330
+      }
+      .contact-info {
+         color: #919191;
+      }
+      .contact-logos {
+              .button {
+           color: #919191;
+         }
+       }
+       .copyright-text{
+         color: #919191;
+       }
+   }
+
+   .project-img{
+      border: 9px solid #919191;
+   }
+}

@@ -1,0 +1,159 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description_introduction":"👋 I'm Tejaswi Jambula. I'm a full stack developer",
+      "description": "I like designing, developing and delivering user friendly web applications. I have experience working with technologies like React, Angular and Node JS. I adore how a simple click or tap does beautiful things , which inspired me to start my web developer journey. User experience, beautiful pixels and writing clean accessible, human code matters to me. ",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "freelanceProjects":"FreeLance",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "EPM SALES",
+        "startDate": "2018-2022",
+        "description": "Hybrid Mobile Application and Web Application for IBM to maintain their global sales analytics. In SMS, we used to have sales reporting using IBM’s well-known BI tool Congo’s. However, to enhance the user experience and faster results SMS came up with a plan of web application named EPM sales which fulfils the analytical assistance to the analysts as well as various sales managers of IBM",
+        "images": [
+          "images/portfolio/Project-logo/eye_bee_m.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.JS"
+          }
+        ]
+      },
+      {
+        "title": "SMS Skyline",
+        "startDate": "2017-2018",
+        "description": "SMS which stands for Sales Management Support team in IBM supports IBM’s sales and business by delivering the necessary assets/reports to the Sales Management across IBM and in turn helping the organisation to grow in its business.SMS SKYLINE was a pilot project of EPM SALES, with better user experience as well as better analytical insights to help them grow in IBM’s business. The application’s faster response was the key objective of SKYLINE application which was developed using Angular JS as front end and node JS as back end.",
+        "images": [
+          "images/portfolio/Project-logo/ibm-cognos.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Content Migration Tool",
+        "startDate": "2016-2017",
+        "description": "One of the first apps I was working on my internship. It is an Application to automate the testing of content migration projects for example from Salesforce to Adobe Experience Manager and various combinations.",
+        "images": [
+          "images/portfolio/Project-logo/delisis.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      }
+    ],
+    "freelanceProject": [
+      {
+        "title": "POINT OF SALE SYSTEM",
+        "startDate": "2021-2022",
+        "description": "A Web based POS system for small and medium scale vendors which is a SaaS product. It includes different modules such as Billing, Inventory Management, Customer Acquisition with data and analytics, and Sales Analytics. As a Full stack developer, designed and developed the product which is light-weight and easy to use interface. Worked authentication and authorization modules using JWT tokens.",
+        "images": [
+          "images/portfolio/Project-logo/freelance.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.JS"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "IBM India Pvt.Ltd",
+        "title": "Application Developer",
+        "years": "07.2018 - 07.2021",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "React",
+          "REST API",
+          "Figma",
+          "JavaScript",
+          "Bootstrap",
+          "SQL",
+          "JEST",
+          "IBM DB2",
+          "Node.JS"
+        ]
+      },
+      {
+        "company": "IBM India Pvt.Ltd",
+        "title": "Associate Application Developer",
+        "years": "05.2017 - 06.2018",
+        "mainTech": [
+          "Angular 6/7/8"
+        ],
+        "technologies": [
+          "Angular",
+          "REST API",
+          "JavaScript",
+          "Bootstrap",
+          "SQL",
+          "JEST",
+          "IBM DB2",
+          "Node.JS"
+        ]
+      },
+      {
+        "company": "Delisis Informatics Pvt.LTD",
+        "title": "Intern",
+        "years": "08.2017 - 04.2017",
+        "mainTech": [
+          "HTML, CSS , JS"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap"
+        ]
+      }
+    ]
+  }

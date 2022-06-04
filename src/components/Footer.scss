@@ -1,0 +1,36 @@
+
+
+  .contact-logos {
+    margin-top: 2rem;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+
+    .button {
+      height: 3rem;
+      width: 3rem;
+      border-radius: 50%;
+      color: #4ca89f;
+      border: 2px solid;
+      border-color: 4ca89f;
+      background-color: var(--highlight-color);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-right: 1rem;
+    }
+  }
+
+  .contact-info {
+    font: 18px/24px "opensans-bold", sans-serif;
+    text-align: center;
+    color: #4ca89f;
+    margin-top: 1rem;
+  }
+
+.copyright {
+  padding-bottom: 1.5rem;
+}
+.copyright-text{
+  color: #4ca89f;
+}
