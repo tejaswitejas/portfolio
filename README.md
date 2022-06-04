@@ -3,7 +3,7 @@ Tejaswi's Portfolio
 
 ## Description
 <pre>
-I built this portfolio in order to display my skills and technologies I have experience in. 
+I built this portfolio in order to display my skills and technologies.
 </pre>
 
 ## Inspiration
