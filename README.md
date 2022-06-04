@@ -8,10 +8,9 @@ I built this portfolio in order to display my skills and technologies I have exp
 
 ## Inspiration
 <pre>
-I admire the idea of portfolios, which will showcase 
-a persons skills( It's like telling without telling 😛).
-So I wanted to build my personal brand, 
-which will be able to inform viewers of my work.
+I admire the idea of portfolios, which will showcase a persons skills
+( It's like telling without telling 😛).
+So I wanted to build my personal brand, which will be able to inform viewers of my work.
 I will keep updating this as my potential and experience grow.😌
 </pre>
 ## How to run this project
