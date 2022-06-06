@@ -8,7 +8,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 /* GLOBAL VARIABLES */
 
 window.$primaryLanguage = 'en';
-window.$secondaryLanguage = '';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 serviceWorker.register();
