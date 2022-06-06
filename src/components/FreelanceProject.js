@@ -32,7 +32,7 @@ return (
               <div className="foto freelance-img" onClick={() => detailsModalShowfun(project)} >
                 <div>
                   <img
-                    src={project.images[0]}
+                    src={process.env.PUBLIC_URL + "/"+project.images[0]}
                     alt="projectImages"
                     height="230"
                     style={{

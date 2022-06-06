@@ -7,7 +7,7 @@ import "./Footer.scss";
 class Footer extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
-      var profilepic = "images/" + this.props.sharedBasicInfo.logo_image;
+      var profilepic = process.env.PUBLIC_URL + "/images/" + this.props.sharedBasicInfo.logo_image;
     }
 
     return (

@@ -29,7 +29,7 @@ class Header extends Component {
       var name = this.props.sharedData.name;
       var HiText = this.props.sharedData.HiText;
       this.titles = this.props.sharedData.titles.map(x => [ x.toUpperCase(), 1500 ] ).flat();
-      var profilepic = "images/" + this.props.sharedData.logo_image;
+      var profilepic = process.env.PUBLIC_URL + "/images/" + this.props.sharedData.logo_image;
     }
 
     const HeaderTitleTypeAnimation = React.memo( () => {
