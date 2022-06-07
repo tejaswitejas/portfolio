@@ -1,8 +1,4 @@
 import React, { Component } from "react";
-import { Icon } from "@iconify/react";
-import angularIcon from "@iconify/icons-logos/angular-icon";
-import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue";
 
 class About extends Component {
   render() {
@@ -28,7 +24,7 @@ class About extends Component {
                 <div id="inner-div">
                 <img
                     src={profilepic}
-                    alt="image placeholder"
+                    alt="my-profilePic"
                     className="my-image"
                   />
                 </div>
