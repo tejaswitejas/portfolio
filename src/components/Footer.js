@@ -17,7 +17,7 @@ class Footer extends Component {
             <img src={profilepic} alt="logo" />
           </div>
           <div className="contact-logos">
-        <a href="www.linkedin.com/in/jambula-tejaswi-995b6b105" target="_blank">
+        <a href="https://www.linkedin.com/in/jambula-tejaswi-995b6b105/" target="_blank">
           <div className="button">
             <GrLinkedinOption className="icon" />
           </div>

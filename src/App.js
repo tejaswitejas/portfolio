@@ -25,7 +25,8 @@ class App extends Component {
   }
 
   componentDidMount() {
-    this.loadSharedData();
+    var portfolioDataPath = process.env.PUBLIC_URL+"/"+`portfolio_shared_data.json`;
+    this.loadSharedData(portfolioDataPath);
     this.loadResume();
   }
 
@@ -43,9 +44,9 @@ class App extends Component {
     });
   }
 
-  loadSharedData() {
+  loadSharedData(path) {
     $.ajax({
-      url: `portfolio_shared_data.json`,
+      url: path,
       dataType: "json",
       cache: false,
       success: function (data) {
