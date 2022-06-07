@@ -1,6 +1,10 @@
 # portfolio
 Tejaswi's Portfolio
 
+## Click here to see demo
+
+<h2>https://tejaswitejas.github.io/portfolio/</h2>
+
 ## Description
 <pre>
 I built this portfolio in order to display my skills and technologies.

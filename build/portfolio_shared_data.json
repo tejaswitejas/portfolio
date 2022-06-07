@@ -1,63 +1,63 @@
 {
-    "basic_info": {
-      "HiText" : "Hi, This is",
-      "name": "Tejaswi Jambula",
-      "titles": [ "Front-end Developer", "Mobile App Developer" , "UI/UX enthusiast", "Back-end developer", "Coffee Lover"],
-      "image": "myProfile.jpg",
-      "logo_image":"TJ_Logo2.png"
-    },
-    "skills": {
-      "icons": [
-        {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "85"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "85"
-        },
-        {
-          "name": "React JS",
-          "class": "devicon-react-original",
-          "level": "80"
-        },
-        {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "70"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "70"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "80"
-        },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "80"
-        },
-        {
-          "name": "Node JS",
-          "class": "devicon-nodejs-plain",
-          "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
-        }
-      ]
-    }
+  "basic_info": {
+    "HiText" : "Hi, This is",
+    "name": "Tejaswi Jambula",
+    "titles": [ "Front-end Developer", "Mobile App Developer" , "UI/UX enthusiast", "Back-end developer", "Coffee Lover"],
+    "image": "myProfile.jpg",
+    "logo_image":"TJ_Logo2.png"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "85"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "85"
+      },
+      {
+        "name": "React JS",
+        "class": "devicon-react-original",
+        "level": "80"
+      },
+      {
+        "name": "Angular",
+        "class": "devicon-angularjs-plain",
+        "level": "70"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "70"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "80"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original",
+        "level": "75"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "80"
+      },
+      {
+        "name": "Node JS",
+        "class": "devicon-nodejs-plain",
+        "level": "65"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      }
+    ]
   }
+}
