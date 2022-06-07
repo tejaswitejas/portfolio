@@ -1,4 +1,4 @@
-import React,{useState} from "react";
+import React from "react";
 
 function Progress(props){
     const [style, setStyle] = React.useState({});
